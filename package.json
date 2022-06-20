@@ -1,0 +1,14 @@
+{
+  "name": "sharadk",
+  "version": "1.0.0",
+  "description": "to test api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sharadk",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.3.2"
+  }
+}
